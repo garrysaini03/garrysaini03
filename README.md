@@ -25,8 +25,8 @@
 | **Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 
 ### 📈 Featured Projects
-- **[StockSense: LSTM Forecaster](https://github.com/GarrySaini/stock-predictor)**
-- **[ClimaCast: Temperature App](https://github.com/GarrySaini/weather-predictor)**
+- **[StockSense: LSTM Forecaster](https://github.com/garrysaini03/stock-predictor)**
+- **[ClimaCast: Temperature App](https://github.com/garrysaini03/weather-predictor)**
 
 ---
 
