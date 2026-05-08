@@ -2,11 +2,11 @@
   <h1>Hi, I'm Gursimran Singh 👋</h1>
   <p><strong>Data Analyst | Business Intelligence & Machine Learning</strong></p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GarrySaini&show_icons=true&theme=radical&hide_border=true" alt="Garry's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=garrysaini03&show_icons=true&theme=radical&hide_border=true" alt="Garry's GitHub Stats" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrySaini&layout=compact&theme=radical&hide_border=true" alt="Garry's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrysaini03&layout=compact&theme=radical&hide_border=true" alt="Garry's Top Languages" />
 </div>
 
 ---
